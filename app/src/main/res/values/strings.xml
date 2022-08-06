@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bigger Number Game</string>
+    <string name="game_title">Bigger Number Game</string>
+    <string name="game_instruction">Press the button which contains the larger number!</string>
+</resources>
